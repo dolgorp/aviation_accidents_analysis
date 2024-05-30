@@ -22,6 +22,12 @@ Main data source is The National Transportation Safety Board aviation accident d
 
 In this analysis we focus on business charter flights in two categories - airplanes and helicopters in the United States. We analyse relevant accidents - dated after 2005, as the aircarft industry has developed significantly and older data points can distort the findings. As an outcome of this analysis we will be able to provide lists of recommended makes for both categories based on calculating accident survival rates.
 
+![screenshot1](images/screen1.png)
+
+![screenshot2](images/screen2.png)
+
+![screenshot3](images/screen3.png)
+
 
 ### Summary
 
